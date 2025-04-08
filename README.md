@@ -13,4 +13,8 @@
   <a href="https://www.linkedin.com/in/murillo-ribeiro-7b7807232/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+
+  <img src="https://raw.githubusercontent.com/MuRibeiroDev/MuRibeiroDev/output/snake.svg" alt="Snake animation" />
+
+###
 </div>
