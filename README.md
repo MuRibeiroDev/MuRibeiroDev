@@ -2,10 +2,7 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MuRibeiroDev&show_icons=true&theme=dracula&count_private=true&hide_border=false" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuRibeiroDev&layout=compact&theme=dracula&hide_border=false" />
-</div>
+
 
 ###
 
